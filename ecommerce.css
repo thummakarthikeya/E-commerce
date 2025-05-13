@@ -76,7 +76,7 @@ left: 20px;
 
 
 #hero {
-    background-image: url("./asset/girl-160326_1280.webp");
+    background-image: url("/asset/girl-160326_1280.webp");
     background-size: contain;
     background-color: #d4d7e4;
     background-position: top right;
